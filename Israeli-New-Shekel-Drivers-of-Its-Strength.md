@@ -1,6 +1,6 @@
 # Israeli New Shekel - Drivers of Its Strength
 
-__Date: December 11, 2026__
+_Last update: December 11, 2026_
 
 A relatively strong shekel matters to Israel’s local economy because of the country’s structure as a small, open, and import-dependent economy with a high concentration of high-value exports. Israel imports a large share of what households and businesses consume, including food, energy, vehicles, and raw materials. When the shekel is strong, these imports are cheaper, which directly lowers the cost of living and helps protect household purchasing power. This is especially important in Israel, where price increases are felt quickly and can translate into social and political pressure. By keeping import prices in check, a strong currency plays a central role in containing inflation.
 
